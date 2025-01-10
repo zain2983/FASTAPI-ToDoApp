@@ -1,5 +1,5 @@
 /venv
 .env
 
-
+# /app
 /app/__pycache__
